@@ -1,4 +1,5 @@
 ## Hi, I'm Anishka Raghuwanshi
+> I don’t just write code, I debug the universe. Sometimes with semicolons. <br/>
 
 🎓 Computer Science Student at Hansraj College, Delhi<br/>
 💡 Enthusiast of smart tech and real-world innovation<br/>
