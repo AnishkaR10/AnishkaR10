@@ -15,7 +15,7 @@
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/anishka-raghuwanshi-012239283/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/anishka-raghuwanshi/)
 - 💻 [GitHub](https://github.com/AnishkaR10)
 - 📧 [anishkaraghuwanshi1011@gmail.com](mailto:anishkaraghuwanshi1011@gmail.com)
 - 🔍 [LeetCode](https://leetcode.com/u/Anishka_Raghuwanshi10/)
